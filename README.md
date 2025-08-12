@@ -1,11 +1,8 @@
 # Repository Structure
-
-This repository contains code and data for particle tracking using LSTM (Long Short-Term Memory) neural networks. Here's how the files and folders are organized:
-
 ## Main Folders
 
 ### 📁 `final output/`
-This is where all the results are stored after running the tracking:
+This is where all the results are store d after running the tracking:
 
 #### 📁 `GIF/`
 - Contains animated GIF files showing particle trajectories
